@@ -114,7 +114,6 @@ Any changes made and committed back to your repository will be run through the p
 
 This pipeline includes an (optional) manual approval stage between the staging and production environments. This can be useful if you are not yet at the stage where you can move to fully automated continuous deployment.
 
- 
 ## How do I deploy this?
 
 #### 1. Fork this GitHub repository to your GitHub account
